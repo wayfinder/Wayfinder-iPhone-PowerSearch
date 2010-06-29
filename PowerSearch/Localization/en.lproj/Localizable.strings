@@ -1,0 +1,72 @@
+"Add to Contacts" = "Add to Contacts";
+
+"Add to favorites" = "Add to Favorites";
+
+/* Call to number button text */
+"Call %@" = "Call %@";
+
+/* Cancel button */
+"Cancel" = "Cancel";
+
+/* Category field placeholder */
+"Categories" = "Categories";
+
+"Clear history" = "Clear history";
+
+"Details" = "Details";
+
+/* Details footer heading */
+"Description" = "Description";
+
+/* Distance to list item */
+"Distance:" = "Distance:";
+
+"Favorites" = "Favorites";
+
+/* List button text */
+"List" = "List";
+
+/* Map button text */
+"Map" = "Map";
+
+/* Search field placeholder */
+"Search" = "Search";
+
+/* Show more results in list */
+"Show more results" = "Show more results";
+
+/* Show on map button text */
+"Show on map" = "Show on map";
+
+"Show route by car" = "Show route by car";
+
+"Show route by foot" = "Show route by foot";
+
+"Start" = "Start";
+"Reroute" = "Reroute";
+
+/* Shown on activity indicator */
+"Searching" = "Searching";
+"Loading" = "Loading";
+"Locating you" = "Locating you";
+
+/* back button on details navigation bar */
+"Back" = "Back";
+
+/* No results found NOTE, title */
+"No results note title" = "Whoops!";
+
+/* No results found NOTE, first line of note */
+"No results note" = "We couldn’t find any hits. Please modify your search and try again.";
+
+/* Unknown value indicator */
+"Unknown" = "Unknown";
+
+/* Data Sources Label text */                  
+"Data Sources" = "Data Sources:";
+
+/* License Label text */
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "version";

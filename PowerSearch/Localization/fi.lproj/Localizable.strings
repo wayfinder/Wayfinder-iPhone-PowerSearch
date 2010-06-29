@@ -1,0 +1,72 @@
+"Add to Contacts" = "Lisää osoitekirjaan";
+
+"Add to favorites" = "Lisää suosikeihin";
+
+/* Call to number button text */
+"Call %@" = "Soita %@";
+
+/* Cancel button */
+"Cancel" = "Peruuta";
+
+/* Category field placeholder */
+"Categories" = "Kategoriat";
+
+"Clear history" = "Tyhjennä historia";
+
+"Details" = "Lisätietoja";
+
+/* Details footer heading */
+"Description" = "Kuvaus";
+
+/* Distance to list item */
+"Distance:" = "Etäisyys:";
+
+"Favorites" = "Suosikit";
+
+/* List button text */
+"List" = "Lista";
+
+/* Map button text */
+"Map" = "Kartta";
+
+/* Search field placeholder */
+"Search" = "Etsi";
+
+/* Show more results in list */
+"Show more results" = "Näytä lisää tuloksia";
+
+/* Show on map button text */
+"Show on map" = "Näytä kartalla";
+
+"Show route by car" = "Näytä ajoreitti";
+
+"Show route by foot" = "Näytä kävelyreitti";
+
+"Start" = "Aloita";
+"Reroute" = "Laske reitti";
+
+/* Shown on activity indicator */
+"Searching" = "Haetaan";
+"Loading" = "Ladataan";
+"Locating you" = "Paikannetaan";
+
+/* back button on details navigation bar */
+"Back" = "Takaisin";
+
+/* No results found NOTE, title */
+"No results note title" = "Hupsista!";
+
+/* No results found NOTE, first line of note */
+"No results note" = "Emme löytäneet tuloksia annetulla haulla. Muuta hakua ja yritä uudestaan.";
+
+/* Unknown value indicator */
+"Unknown" = "Tuntematon";
+
+/* Data Sources Label text */
+"Data Sources" = "Datalähteet:";
+
+/* License Label text */
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "versio";

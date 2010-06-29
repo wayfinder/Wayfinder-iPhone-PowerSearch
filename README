@@ -1,0 +1,7 @@
+This is the repository for the Wayfinder PowerSearch client for iPhone.
+The client has earlier been released on App store but was later replaced bye Locate.
+It is released under the BSD license.
+
+To build the client you will also need to download the repository for Wayfinder-S60-Navigator, since the client shares the map engine with the S60 Navigator client.
+
+For more information about the source code and how to build it, please go to oss.wayfinder.com

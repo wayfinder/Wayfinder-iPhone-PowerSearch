@@ -1,0 +1,60 @@
+"Add to Contacts" = "Ajouter aux Contacts";
+
+"Add to favorites" = "Ajouter aux favoris";
+
+/* Call to number button text */
+"Call %@" = "Appeler %@";
+
+/* Category field placeholder */
+"Categories" = "Catégories";
+
+"Clear history" = "Effacer l'historique";
+
+"Details" = "Détails";
+
+/* Distance to list item */
+"Distance:" = "Distance:";
+
+"Favorites" = "Favoris";
+
+/* Map button text */
+"Map" = "Carte";
+
+/* Search field placeholder */
+"Search" = "Rechercher";
+
+/* Show more results in list */
+"Show more results" = "Afficher d’autres résultats";
+
+/* Show on map button text */
+"Show on map" = "Afficher sur la carte";
+
+"Show route by car" = "Indiquer l'itinéraire en voiture";
+
+"Show route by foot" = "Indiquer l'itinéraire à pied";
+
+"Start" = "Start?";
+"Reroute" = "Reroute?";
+
+/* Shown on activity indicator */
+"Searching" = "Recherche en cours";
+"Loading" = "Chargement";
+"Locating you" = "Se localiser";
+
+/* No results found NOTE, title */
+"No results note title" = "Oups !";
+
+/* No results found NOTE, first line of note */
+"No results note" = "Nous n’avons rien trouvé. Modifiez votre recherche et recommencez.";
+
+/* Unknown value indicator */
+"Unknown" = "Inconnu";
+
+/* Data Sources Label text */                  
+"Data Sources" = "Sources de données:";
+
+/* License Label text */
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "version";

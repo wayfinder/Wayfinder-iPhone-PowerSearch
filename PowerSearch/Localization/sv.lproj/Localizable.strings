@@ -1,0 +1,72 @@
+"Add to Contacts" = "Lägg till i Kontakter";
+
+"Add to favorites" = "Lägg till i Favoriter";
+
+/* Call to number button text */
+"Call %@" = "Ring %@";
+
+/* Cancel button */
+"Cancel" = "Avbryt";
+
+/* Category field placeholder */
+"Categories" = "Kategorier";
+
+"Clear history" = "Rensa historik";
+
+"Details" = "Detaljer";
+
+/* Details footer heading */
+"Description" = "Beskrivning";
+
+/* Distance to list item */
+"Distance:" = "Avstånd:";
+
+"Favorites" = "Favoriter";
+
+/* List button text */
+"List" = "Lista";
+
+/* Map button text */
+"Map" = "Karta";
+
+/* Search field placeholder */
+"Search" = "Sök";
+
+/* Show more results in list */
+"Show more results" = "Visa fler resultat";
+
+/* Show on map button text */
+"Show on map" = "Visa i kartan";
+
+"Show route by car" = "Visa vägen med bil";
+
+"Show route by foot" = "Visa vägen till fots";
+
+"Start" = "Start?";
+"Reroute" = "Reroute?";
+
+/* Shown on activity indicator */
+"Searching" = "Söker";
+"Loading" = "Laddar";
+"Locating you" = "Hittar din position";
+
+/* back button on details navigation bar */
+"Back" = "Tillbaka";
+
+/* No results found NOTE, title */
+"No results note title" = "Hoppsan!";
+
+/* No results found NOTE, first line of note */
+"No results note" = "Vi kunde inte hitta några resultat. Prova att ändra din sökning och försök igen.";
+
+/* Unknown value indicator */
+"Unknown" = "Okänt";
+
+/* Data Sources Label text */                  
+"Data Sources" = "Informationskällor:";
+
+/* License Label text*/
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "version";

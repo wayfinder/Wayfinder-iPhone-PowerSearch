@@ -1,0 +1,63 @@
+"Add to Contacts" = "Kişilere ekle";
+
+"Add to favorites" = "Hızlı Aramaya Ekle";
+
+/* Call to number button text */
+"Call %@" = "Ara %@";
+
+
+/* Category field placeholder */
+"Categories" = "Kategoriler";
+
+"Clear history" = "Tarihçeyi Sil";
+
+"Details" = "Ayrıntılar";
+
+
+/* Distance to list item */
+"Distance:" = "Mesafe:";
+
+"Favorites" = "Favoriler";
+
+/* Map button text */
+"Map" = "Harita";
+
+/* Search field placeholder */
+"Search" = "Ara";
+
+/* Show more results in list */
+"Show more results" = "Daha fazla sonuç göster";
+
+/* Show on map button text */
+"Show on map" = "Haritada göster";
+
+"Show route by car" = "Araba sürüş rotasını göster";
+
+"Show route by foot" = "Yürüyüş rotasını göster";
+
+"Start" = "Start?";
+"Reroute" = "Reroute?";
+
+/* Shown on activity indicator */
+"Searching" = "Aranıyor";
+"Loading" = "Yükleniyor";
+"Locating you" = "Pozisyonunu ariyor";
+
+
+/* No results found NOTE, title */
+"No results note title" = "Amanin!";
+
+/* No results found NOTE, first line of note */
+"No results note" = "Arama sonuçsuz. Değişiklik yaparak tekrar arayın.";
+
+/* Unknown value indicator */
+"Unknown" = "Bilinmeyen";
+
+/* Data Sources Label text */                  
+"Data Sources" = "Bilgi kaynağı:";
+
+/* License Label text */
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "sürüm";

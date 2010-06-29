@@ -1,0 +1,72 @@
+"Add to Contacts" = "Añadir a Contactos";
+
+"Add to favorites" = "Favoritos";
+
+/* Call to number button text */
+"Call %@" = "Llamar %@";
+
+/* Cancel button */
+"Cancel" = "Cancelar";
+
+/* Category field placeholder */
+"Categories" = "Categorías";
+
+"Clear history" = "Borrar historial";
+
+"Details" = "Detalles";
+
+/* Details footer heading */
+"Description" = "Descripción";
+
+/* Distance to list item */
+"Distance:" = "Distancia:";
+
+"Favorites" = "Favoritos";
+
+/* List button text */
+"List" = "Lista";
+
+/* Map button text */
+"Map" = "Mapa";
+
+/* Search field placeholder */
+"Search" = "Buscar";
+
+/* Show more results in list */
+"Show more results" = "Muéstrame mas resultados";
+
+/* Show on map button text */
+"Show on map" = "Mostrar en mapa";
+
+"Show route by car" = "Indícame la ruta en coche";
+
+"Show route by foot" = "Indícame la ruta a pie";
+
+"Start" = "Start?";
+"Reroute" = "Reroute?";
+
+/* Shown on activity indicator */
+"Searching" = "Buscando";
+"Loading" = "Cargando";
+"Locating you" = "Encuentre su posición";
+
+/* back button on details navigation bar */
+"Back" = "Atrás";
+
+/* No results found NOTE, title */
+"No results note title" = "Whoops?";
+
+/* No results found NOTE, first line of note */
+"No results note" = "No pudimos encontrar lo que buscábamos. Por favor, modifica la búsqueda e inténtalo de nuevo.";
+
+/* Unknown value indicator */
+"Unknown" = "Desconocido";
+
+/* Data Sources Label text */                  
+"Data Sources" = "Fuentes de Datos:";
+
+/* License Label text */
+"License" = "MAP LICENSE HERE";
+
+/* About view */
+"Version" = "versión";
